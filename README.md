@@ -1,4 +1,4 @@
-# Solana Raydium Volume Bot
+# Solana Raydium Bot
 
 The Solana Raydium Volume Bot is a sophisticated open-source tool designed to efficiently facilitate high-volume transactions on the Solana blockchain. This script is ideal for users seeking to streamline complex transaction processes while maximizing performance.
 
@@ -62,4 +62,4 @@ For comprehensive guidance and updates, directly contact @inscNix on Telegram. E
 
 ### Conclusion
 
-Implement the Solana Volume Bot to enhance your Solana transaction operations. Its efficiency ensures a seamless buying and selling experience on the blockchain.
+Implement the Solana Volume Bot to enhance your Solana transaction operations. Its efficiency ensures a seamless buying and selling experience on the blockchain ecosystem.
